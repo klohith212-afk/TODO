@@ -1,8 +1,4 @@
-# 🚀 Smart Task Manager
-
-A modern, 3D-styled task management application with advanced features for organizing your daily tasks efficiently.
-
-
+#  Smart Task Manager
 
 ## ✨ Features
 
@@ -34,30 +30,6 @@ A modern, 3D-styled task management application with advanced features for organ
 - **JavaScript (ES6+)** - Interactive functionality and DOM manipulation
 - **Local Storage API** - Client-side data persistence
 
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Internet connection for initial load (then works offline)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
-   ```
-
-2. **Open in browser**
-   - Open `index.html` in your web browser
-   - Or use a local server for better experience:
-     ```bash
-     # Using Python
-     python -m http.server 8000
-
-     # Using Node.js (if you have http-server installed)
-     npx http-server
-     ```
 
 ## 📖 Usage
 
@@ -103,15 +75,7 @@ smart-task-manager/
 └── README.md           # Project documentation
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 Future Enhancements
 
