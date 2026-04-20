@@ -83,15 +83,6 @@ A modern, 3D-styled task management application with advanced features for organ
 - ⚠️ **Overdue**: Pulsing red animation
 - ✅ **Completed**: Strikethrough with reduced opacity
 
-## 🎨 Design Philosophy
-
-The Smart Task Manager features a cutting-edge 3D UI design that combines:
-
-- **Glassmorphism**: Semi-transparent elements with blur effects
-- **3D Transforms**: Cards that lift and rotate on interaction
-- **Micro-animations**: Smooth transitions and hover states
-- **Color Psychology**: Intuitive color coding for priorities
-- **Accessibility**: High contrast and clear visual hierarchy
 
 ## 🌐 Deployment
 
@@ -132,9 +123,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Collaborative features
 - [ ] Mobile app version
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -142,9 +131,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - UI design concepts from glassmorphism and neumorphism trends
 - Built with vanilla JavaScript for maximum compatibility
 
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact the maintainers.
 
 ---
 
